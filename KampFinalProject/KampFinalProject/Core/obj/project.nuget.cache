@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AbaGz8aawb0D+1HkqmD1Gv7IsN3hVX9PYOYR+6n0CFeburoJkstnSNqQfSyQZjtq7VKt8HcFzTUg+KhGBNDZeA==",
+  "dgSpecHash": "KSc3HP35pAtv0Vcv7rIr6jsKCe+AQcXgu6PKdfwiB7SnEqNQxNFpA7bEIFk1Ei6V9P+20+V18zqXL/P6Q4gIdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\galip\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\galip\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

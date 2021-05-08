@@ -6134,11 +6134,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\galip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6159,17 +6159,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\Business\\Business.csproj"
+            "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\Business\\Business.csproj"
             },
-            "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\Core\\Core.csproj"
+            "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\Core\\Core.csproj"
             },
-            "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\Entities\\Entities.csproj"
+            "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\Entities\\Entities.csproj"
             }
           }
         }

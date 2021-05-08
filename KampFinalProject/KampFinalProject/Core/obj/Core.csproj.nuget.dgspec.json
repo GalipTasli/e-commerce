@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\Core\\Core.csproj": {}
+    "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\Core\\Core.csproj": {
+    "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\galip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\Core\\obj\\",
+        "outputPath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

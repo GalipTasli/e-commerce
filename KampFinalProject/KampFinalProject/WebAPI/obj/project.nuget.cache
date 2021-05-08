@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CgmcinpiY469UVXmMypcI03QTgEdRRIbT/YCJ0AYKjt37CVr7es5vOKezurp+cJycb0zpOJN0Qx9+vt2khqtWA==",
+  "dgSpecHash": "6F1Qd6tV3Mnlug/VWqaf+nIa6Wdl240jcOmeigezlXi41WSnjjRAzTfjkI2dWQdvcVjuxLL9AevOwI6rrM1DIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\galip\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\galip\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

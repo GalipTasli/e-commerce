@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DkEG5ST+5qStr3HSLSATFO27CtslDzRD8oyFf3WpoUsxrcEP7GfFOiNGG7b8/X1w0ZBwh0rTGw6C4iOIv2JT8w==",
+  "dgSpecHash": "fo8U9vYeCP0uK8jJ3tk412M1W4bnlQU0UPjDmmkPq8kdT5NYBEex4XoSqxBPxnr3cFhDv08ofWO8oTNA96wHBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\KampFinalProject-master4\\KampFinalProject-master\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\galip\\Desktop\\yazılım kampı\\NetCoreBackend\\KampFinalProject\\KampFinalProject\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\galip\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\galip\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
